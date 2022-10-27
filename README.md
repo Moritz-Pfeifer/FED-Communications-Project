@@ -14,6 +14,6 @@ The macroeconomic data and all pre-processed speeches can be found in this folde
 
 The tools for analyising the data can be found in the Tone analysis folder. 
 
-● [Webscraping and Datasourcing](https://github.com/Moritz-Pfeifer/FED-Communications-Project/tree/main/Data_mining)
+● [Data Mining](https://github.com/Moritz-Pfeifer/FED-Communications-Project/tree/main/Data_mining)
 
 The tools for collecting the data and setting up the databse itself can be found in the Data folder.
