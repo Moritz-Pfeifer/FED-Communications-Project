@@ -10,9 +10,9 @@ Data, web scraping tools and econometric modeling codes for analysing FED centra
 
 The macroeconomic data and all pre-processed speeches can be found in this folder.
 
-● [Tone Analysis](https://github.com/Moritz-Pfeifer/FED-Communications-Project/tree/main/Data_analysis)
+● [Data Analysis](https://github.com/Moritz-Pfeifer/FED-Communications-Project/tree/main/Data_analysis)
 
-The tools for analyising the data can be found in the Tone analysis folder. 
+The tools for analyising the data including the tone analysis and econometric model can be found in this folder. 
 
 ● [Data Mining](https://github.com/Moritz-Pfeifer/FED-Communications-Project/tree/main/Data_mining)
 
