@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/gtYf4Dg/1920px-Logo-Universite-Paris-Nanterre.png" width="350" height="80">
+<img src="https://i.ibb.co/gtYf4Dg/1920px-Logo-Universite-Paris-Nanterre.png" width="340" height="80">
 
 # Secrets of the Temple or Noise of the Agora? 
 
