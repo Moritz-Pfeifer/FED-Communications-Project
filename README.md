@@ -16,4 +16,4 @@ The tools for analyising the data including the tone analysis and econometric mo
 
 ● [Data Mining](https://github.com/Moritz-Pfeifer/FED-Communications-Project/tree/main/Data_mining)
 
-The tools for collecting the data and setting up the databse itself can be found in the Data folder.
+The tools for collecting the data and setting up the databse itself can be found in the Data Mining folder.
