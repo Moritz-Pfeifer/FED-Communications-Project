@@ -1,4 +1,4 @@
-<img src="https://communication.parisnanterre.fr/medias/photo/logo-paris-nanterre-couleur-rvb_1484813558100-jpg" width="340" height="80">
+<img src="https://communication.parisnanterre.fr/medias/photo/logo-paris-nanterre-couleur-cmjn_1484748809853-png" width="340" height="80">
 
 # Secrets of the Temple or Noise of the Agora? 
 
