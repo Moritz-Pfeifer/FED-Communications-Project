@@ -6,7 +6,7 @@ This study sets out to investigate whether central banks are able to efficiently
 
 Data, web scraping tools and econometric modeling codes for analysing FED central bank communications
 
-● [Data](https://github.com/Moritz-Pfeifer/FED-Communications-Project/Data) 
+● [Data](https://github.com/Moritz-Pfeifer/FED-Communications-Project/tree/main/Macro_data_1965-2020) 
 
 The macroeconomic data and all pre-processed speeches can be found in this folder.
 
